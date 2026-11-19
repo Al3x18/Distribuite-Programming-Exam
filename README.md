@@ -1,4 +1,4 @@
-# PD-Exam — AutoParts
+# Distribuite-Programming-Exam — AutoParts
 
 Modulo EJB realizzato come progetto d'esame con Jakarta EE. L'applicazione gestisce un catalogo di ricambi auto, le relative categorie e le quantità disponibili. Include operazioni CRUD, interrogazioni tramite JPA e aggiornamenti asincroni delle vendite tramite JMS.
 
